@@ -1,0 +1,14 @@
+Classe cell :
+    Rajouter un système de durée de vie
+    Rajouter le système d'énergie de base
+    Rajouter le système de colision
+    Rajouter l'algorithme génètiques (src : https://fr.wikipedia.org/wiki/Algorithme_g%C3%A9n%C3%A9tique
+                                        https://www.mdpi.com/2076-3417/10/11/3936/htm)
+    
+Apoptose d'une cellule = ressource projeté dans l'environnement
+
+Pouvoir suivre une bactérie
+Avoir des statistiques à la fin de la simulation par rapport à la souche de bactérie ainsi que ses caractéristiques
+Pouvoir zoomer et dezoomer, se déplacer dans la simulation
+Rajouter le quorum sensing
+Rajouter le canal alpha pour l'affichage de la concentration
